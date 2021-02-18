@@ -20,13 +20,13 @@ simple to use.
 
 Can be found on telegram as [Menhera Chan](https://t.me/menherachanRoBot).
 
-Marie and I are moderating a [support group](https://t.me/CuratorCrew), where you can ask for help setting up your
+Marie and I are moderating a [support group](https://t.me/miraculous_is_not_for_kids), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
 Join the [Tech channel](https://t.me/Dark_Hacker_X) For Free Knowledge. This Code Is Made By [@TheDarkW3b](https://github.com/TheDarkW3b)
 
-Alternatively, [find me on telegram](https://t.me/TheDarkW3b)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/tgbotchannel)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## Starting the bot.
 
